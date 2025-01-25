@@ -1,4 +1,4 @@
-# Blinkit-Analysis-using-Power-BI
+# Blinkit-Analysis using Power BI
 
 This repository contains an interactive Power BI dashboard designed to provide comprehensive insights into Blinkit's business performance. The dashboard focuses on analyzing sales performance, customer satisfaction, and inventory distribution, leveraging various KPIs and visualizations to identify key opportunities for optimization.
 
